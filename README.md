@@ -1,5 +1,7 @@
-## Hi there, I'm David 👋
 
+<p align="center">
+  <img src="./badge.svg" alt="Hello World Badge">
+</p>
 <!--
 **Davidmetam/Davidmetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
