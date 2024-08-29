@@ -1,18 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="200" viewBox="0 0 720 200">
-    <rect width="720" height="200" rx="10" fill="#444444"/>
-    <text x="20" y="40" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="28" fill="#FFA500">
-        public class Main {
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="40" viewBox="0 0 360 40">
+    <rect width="360" height="40" rx="5" fill="#444444"/>
+    <text x="10" y="25" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="14" fill="#FFA500">
+        System.out.print("Hello World. I'm David 👋");
     </text>
-    <text x="20" y="80" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="28" fill="#FFA500">
-        &nbsp;&nbsp;&nbsp;&nbsp;public static void main(String[] args) {
-    </text>
-    <text x="20" y="120" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="28" fill="#FFA500">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.out.print("Hello World. I'm David 👋");
-    </text>
-    <text x="20" y="160" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="28" fill="#FFA500">
-        &nbsp;&nbsp;&nbsp;&nbsp;}
-    </text>
-    <text x="20" y="200" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="28" fill="#FFA500">
-        }
+    <text x="10" y="25" font-family="Consolas, Monaco, 'Andale Mono', monospace" font-size="14" fill="#FFA500">
+        System.out.print("Hello World. I'm David 👋");
     </text>
 </svg>
