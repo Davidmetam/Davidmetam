@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./badge.svg" alt="Hello World Badge" width="720" height="80">
-</p>
-<!--
 **Davidmetam/Davidmetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
